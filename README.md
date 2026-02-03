@@ -1,6 +1,8 @@
 # Hola, soy Daniela 👋
 
-Soy estudiante de Ingenieria en Servicios y Tecnologias de Telecomunicacion y este portfolio, en el que subire mis trabajos en Analisis y Diseño del Software será una pequeña parte de este lado de mis estudios. En el subire trabajos relacionados con UML, arquitectura, modelado y documentación. Tambien me gustaria añadir mis trabajos en VHDL o Java.
+Soy estudiante de Ingenieria en Servicios y Tecnologias de Telecomunicacion.
+Este portfolio, en el que subire mis trabajos en Analisis y Diseño del Software, será una pequeña parte de este lado de mis estudios. En el subire trabajos relacionados con UML, arquitectura, modelado y documentación. 
+Además, me gustaria añadir mis trabajos en VHDL o Java.
 
 🎓Actualmente estoy aprendiendo diversas cosas acerca de algoritmos de ordenación y grafos, además de programas secuenciales y concurrentes, sincronización condicional y mucho más sobre programación concurrente.
 
