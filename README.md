@@ -12,7 +12,7 @@ This profile includes projects related to:
 ---
 
 ## 🎯 Purpose of this profile
-The goal of this GitHub profile is to build a structured portfolio of practices and projects that reflect my learning and progress in:
+The goal of my GitHub profile is to build a structured portfolio of practices and projects that reflect my learning and progress in areas such as:
 - Functional analysis of systems  
 - Object-oriented design  
 - Software architecture  
