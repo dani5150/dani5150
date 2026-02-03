@@ -1,19 +1,63 @@
-# Hola, soy Daniela 👋
+# Hi, I'm Daniela,
 
-Soy estudiante de Ingenieria en Servicios y Tecnologias de Telecomunicacion.
-Este portfolio, en el que subire mis trabajos en Analisis y Diseño del Software, será una pequeña parte de este lado de mis estudios. En el subire trabajos relacionados con UML, arquitectura, modelado y documentación. 
-Además, me gustaria añadir mis trabajos en VHDL o Java.
+I am a **Services and Telecommunications Engineering student** and I use this profile as a **technical portfolio** to document my academic and personal work in **Software Analysis and Design**.
 
-🎓Actualmente estoy aprendiendo diversas cosas acerca de algoritmos de ordenación y grafos, además de programas secuenciales y concurrentes, sincronización condicional y mucho más sobre programación concurrente.
+This repository showcases projects related to:
+- Software requirements engineering  
+- UML modeling  
+- Software design and architecture  
+- Technical documentation  
+- Software and hardware development  
 
-⚒️Herramientas que domino:
-- Lenguajes (Programacion y Hardware): Java / Python / SQL / VHDL / MATLAB
-- Gestiones : GitHub
+---
 
-💻Plataformas que domino:
-Eclipse, Xilinx Vivado, MatLab, Visual Studio Code
+## 🎯 Purpose of this profile
+The goal of this GitHub profile is to build a structured portfolio of practices and projects that reflect my learning and progress in:
+- Functional analysis of systems  
+- Object-oriented design  
+- Software architecture  
+- Sequential and concurrent programming  
+- Digital system design  
 
-📫 How to reach me: 
-- LinkedIn: Daniela del Carmen Roldán López
-- Email: droldanlop@gmail.com
+Each project includes context, design decisions, and clear technical documentation.
+
+---
+
+## 🎓 Current areas of study
+- Sorting algorithms and graph theory  
+- Sequential and concurrent programming  
+- Process synchronization and concurrency control  
+- System modeling using UML  
+- Digital design and simulation  
+
+---
+
+## 🛠️ Technologies and tools
+
+### Programming & Hardware Description Languages
+- **Software**: Java · Python · SQL  
+- **Hardware**: VHDL  
+- **Computation & simulation**: MATLAB  
+
+### Tools & Platforms
+- Version control: Git · GitHub  
+- IDEs: Eclipse · Visual Studio Code  
+- Hardware design: Xilinx Vivado  
+- Analysis & simulation: MATLAB  
+
+---
+
+## 📁 Repository content
+This profile includes:
+- Software analysis and design practices  
+- UML diagrams (use case, class, sequence, etc.)  
+- Concurrent programming projects  
+- VHDL designs and simulations  
+- Structured technical documentation  
+
+---
+
+## 🪪 Contact
+- **LinkedIn**: Daniela del Carmen Roldán López  
+- **Email**: drolanlop@gmail.com
 
