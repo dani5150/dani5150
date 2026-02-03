@@ -1,4 +1,4 @@
-# Hi, I'm Daniela,
+# Hi, I'm Daniela 👋
 
 I am a **Services and Telecommunications Engineering student** and I use this profile as a **technical portfolio** to document my academic and personal work in **Software Analysis and Design**.
 
