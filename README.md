@@ -2,7 +2,7 @@
 
 I am a **Services and Telecommunications Engineering student** and I use this profile as a **technical portfolio** to document my academic and personal work in **Software Analysis and Design**.
 
-This repository showcases projects related to:
+This profile includes projects related to:
 - Software requirements engineering  
 - UML modeling  
 - Software design and architecture  
